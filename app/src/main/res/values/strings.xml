@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">微信红包助手</string>
+    <string name="hongbao">自动抢红包</string>
+    <string name="wx_service_desc">自动抢红包服务</string>
+    <string name="notify_service_desc">通知监听服务</string>
+    <string name="opt_0">请求授权</string>
+    <string name="opt_1">暂停服务</string>
+    <string name="opt_2">恢复服务</string>
+    <string name="status_title">服务状态:</string>
+    <string name="status_0">未授权</string>
+    <string name="status_1">运行中</string>
+    <string name="status_2">已暂停</string>
+    <string name="filter_self">过滤自己发的红包</string>
+</resources>
